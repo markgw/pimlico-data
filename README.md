@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/markgw/pimlico/master/docs/_static/logo_name_500.png" alt="Logo" />
-
 # Pimlico Data
+
+<img align="right" src="https://raw.githubusercontent.com/markgw/pimlico/master/docs/_static/logo_name_500.png" alt="Logo" />
 
 Example datasets for [Pimlico](https://github.com/markgw/pimlico/>) demos, guides and tests.
 
